@@ -1,0 +1,105 @@
+[14:07:46] [main/INFO]: Setting user: Player542
+[14:07:47] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:07:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Spinners n Cubes
+[14:07:54] [Sound Library Loader/INFO]: Sound engine started
+[14:07:55] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[14:07:55] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[14:07:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Spinners n Cubes
+[14:07:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[14:07:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[14:07:56] [Sound Library Loader/INFO]: Sound engine started
+[14:08:06] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:08:06] [Server thread/INFO]: Generating keypair
+[14:08:07] [Server thread/INFO]: Converting map!
+[14:08:07] [Server thread/INFO]: Scanning folders...
+[14:08:07] [Server thread/INFO]: Total conversion count is 0
+[14:08:07] [Server thread/INFO]: Preparing start region for level 0
+[14:08:08] [Server thread/INFO]: Preparing spawn area: 13%
+[14:08:09] [Server thread/INFO]: Preparing spawn area: 33%
+[14:08:10] [Server thread/INFO]: Preparing spawn area: 57%
+[14:08:11] [Server thread/INFO]: Preparing spawn area: 76%
+[14:08:12] [Server thread/INFO]: Preparing spawn area: 96%
+[14:08:12] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:08:12] [Server thread/INFO]: Player542[local:E:9bb13793] logged in with entity id 243 at (224.5, 64.0, 257.5)
+[14:08:13] [Server thread/INFO]: Player542 joined the game
+[14:08:20] [Client thread/INFO]: [CHAT] kscm:ItemFidgetCube1, kscm:ItemFidgetSpinner1
+[14:08:20] [Server thread/INFO]: [Player542: Given [Fidget Cube 1] * 1 to Player542]
+[14:08:20] [Client thread/INFO]: [CHAT] Given [Fidget Cube 1] * 1 to Player542
+[14:08:21] [Client thread/INFO]: Warning: Clientside chunk ticking took 421 ms
+[14:08:21] [Client thread/INFO]: Warning: Clientside chunk ticking took 456 ms
+[14:08:21] [Client thread/INFO]: Warning: Clientside chunk ticking took 119 ms
+[14:08:21] [Client thread/INFO]: Warning: Clientside chunk ticking took 109 ms
+[14:08:22] [Client thread/INFO]: Warning: Clientside chunk ticking took 404 ms
+[14:08:22] [Client thread/INFO]: Warning: Clientside chunk ticking took 119 ms
+[14:08:22] [Client thread/INFO]: Warning: Clientside chunk ticking took 141 ms
+[14:08:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 117 ms
+[14:08:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 117 ms
+[14:08:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 136 ms
+[14:08:27] [Server thread/INFO]: [Player542: Given [Fidget Spinner 1] * 1 to Player542]
+[14:08:27] [Client thread/INFO]: [CHAT] Given [Fidget Spinner 1] * 1 to Player542
+[14:09:25] [Client thread/INFO]: Warning: Clientside chunk ticking took 123 ms
+[14:11:01] [Server thread/INFO]: Saving and pausing game...
+[14:11:01] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Overworld
+[14:11:01] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Nether
+[14:11:01] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/The End
+[14:11:16] [Server thread/INFO]: Player542 has just earned the achievement [Taking Inventory]
+[14:11:16] [Client thread/INFO]: [CHAT] Player542 has just earned the achievement [Taking Inventory]
+[14:11:18] [Server thread/INFO]: Saving and pausing game...
+[14:11:18] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Overworld
+[14:11:18] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Nether
+[14:11:18] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/The End
+[14:13:46] [Server thread/INFO]: Saving and pausing game...
+[14:13:46] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Overworld
+[14:13:46] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Nether
+[14:13:46] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/The End
+[14:13:46] [Server thread/INFO]: Stopping server
+[14:13:46] [Server thread/INFO]: Saving players
+[14:13:46] [Server thread/INFO]: Saving worlds
+[14:13:46] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Overworld
+[14:13:46] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Nether
+[14:13:46] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/The End
+[14:19:30] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:19:30] [Server thread/INFO]: Generating keypair
+[14:19:30] [Server thread/INFO]: Preparing start region for level 0
+[14:19:30] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:19:30] [Server thread/INFO]: Player542[local:E:0ba3e086] logged in with entity id 15821 at (239.30000001192093, 62.0, 164.7753890281458)
+[14:19:30] [Server thread/INFO]: Player542 joined the game
+[14:21:23] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[14:21:29] [Server thread/INFO]: [Player542: Teleported Player542 to 585.5,255.5,782.5]
+[14:21:29] [Client thread/INFO]: [CHAT] Teleported Player542 to 585.5,255.5,782.5
+[14:21:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5272ms behind, skipping 105 tick(s)
+[14:21:43] [Client thread/INFO]: Warning: Clientside chunk ticking took 127 ms
+[14:21:45] [Client thread/INFO]: Warning: Clientside chunk ticking took 125 ms
+[14:21:45] [Client thread/INFO]: Warning: Clientside chunk ticking took 127 ms
+[14:21:46] [Client thread/INFO]: Warning: Clientside chunk ticking took 124 ms
+[14:24:22] [Server thread/INFO]: Saving and pausing game...
+[14:24:22] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Overworld
+[14:24:22] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Nether
+[14:24:22] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/The End
+[14:24:22] [Server thread/INFO]: Stopping server
+[14:24:22] [Server thread/INFO]: Saving players
+[14:24:22] [Server thread/INFO]: Saving worlds
+[14:24:22] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Overworld
+[14:24:22] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Nether
+[14:24:22] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/The End
+[15:09:10] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:09:10] [Server thread/INFO]: Generating keypair
+[15:09:10] [Server thread/INFO]: Preparing start region for level 0
+[15:09:11] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:09:11] [Server thread/INFO]: Player542[local:E:e742028c] logged in with entity id 43458 at (569.5757042088562, 63.0, 799.955238139134)
+[15:09:11] [Server thread/INFO]: Player542 joined the game
+[15:36:00] [Server thread/INFO]: Saving and pausing game...
+[15:36:00] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Overworld
+[15:36:00] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Nether
+[15:36:00] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/The End
+[15:41:49] [Server thread/INFO]: Saving and pausing game...
+[15:41:49] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Overworld
+[15:41:49] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Nether
+[15:41:49] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/The End
+[15:41:50] [Server thread/INFO]: Stopping server
+[15:41:50] [Server thread/INFO]: Saving players
+[15:41:50] [Server thread/INFO]: Saving worlds
+[15:41:50] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Overworld
+[15:41:50] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/Nether
+[15:41:50] [Server thread/INFO]: Saving chunks for level 'Spinners N Cubes 4'/The End
+[15:41:55] [Client thread/INFO]: Stopping!
